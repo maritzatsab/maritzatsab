@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Maritza!
 #### A computer science student.
-![A computer science student.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FThRibwh_27-women-who-change-the-tech-world-infographic%2F&psig=AOvVaw2EVexQ606vh_UFS8TLO5be&ust=1645169856567000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjrl7ydhvYCFQAAAAAdAAAAABAE)
+![A computer science student.](https://www.vhv.rs/viewpic/ThRibwh_27-women-who-change-the-tech-world-infographic/#)
 
 I'm interested in web development, AI, UX/UI, languages and education. As an introvert, I treat reading and learning as parts of excitement. Looking forward to work with talented and curios people!
 
