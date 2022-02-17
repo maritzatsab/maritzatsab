@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Maritza!
 #### A computer science student.
-![A computer science student.]
 
 I'm interested in web development, AI, UX/UI, languages and education. As an introvert, I treat reading and learning as parts of excitement. Looking forward to work with talented and curios people!
 
