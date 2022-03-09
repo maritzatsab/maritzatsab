@@ -3,7 +3,7 @@
 
 I'm interested in software, app/web development, AI, data, and education. As an introvert, I treat reading and learning as parts of excitement. Looking forward to work with talented and curios people!
 
-Skills: HTML | CSS | Figma | VSCode
+Skills: HTML, CSS, Python, Figma
 
 - 🔭 I’m currently working on a web page for Edu For Living 
 - 🌱 I’m currently learning JavaScript and improving Python
