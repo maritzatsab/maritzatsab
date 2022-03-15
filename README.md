@@ -3,7 +3,7 @@
 <br>
 
 - 🔭 I’m currently working on **a website for Edu For Living**
-- 🌱 I'm currently learning **JavaScript** and improving **Python**
+- 🌱 I'm currently learning **Go** and **Flutter (Dart)**
 - 😄 Pronouns **She/her**
 - ⚡Fun Fact **I speak English, Indonesian, French; and I'm an INTJ**
 
